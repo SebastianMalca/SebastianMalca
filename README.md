@@ -1,6 +1,6 @@
 # 👋 Hola, soy Sebastián Malca
 
-🎓 Estudiante de 6to ciclo de **Ingeniería de Software** en la Universidad Nacional Mayor de San Marcos, con interés en **ciberseguridad, computación en la nube y redes**.  
+🎓 Estudiante de 7to ciclo de **Ingeniería de Software** en la Universidad Nacional Mayor de San Marcos, con interés en **ciberseguridad, desarrollo web y de aplicaciones**.  
 💻 Me apasiona aprender nuevas tecnologías, resolver problemas y contribuir con soluciones en entornos de seguridad informática.  
 
 ---
